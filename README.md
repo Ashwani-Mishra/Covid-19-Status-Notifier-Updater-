@@ -1,1 +1,1 @@
-# Covid-19-Status-Notifier-Updater-
+covid 19 notifier updater is an awesome project.
